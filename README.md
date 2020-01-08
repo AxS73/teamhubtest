@@ -1,1 +1,1 @@
-# HomeConnect: Firmware Distribution Server - API-Gateway
+# HomeConnect: Firmware Distribution Server - API-Gateway :)
